@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-text-splitters = "*"
+langchain-community = "*"
+langchain-pinecone = "*"
+langchain-openai = "*"
+langchain-core = "*"
+langchainhub = "*"
+langsmith = "*"
+langgraph = "*"
+google-search-results = "*"
+beautifulsoup4 = "*"
+streamlit-chat = "*"
+python-dotenv = "*"
+faiss-cpu = "*"
+streamlit = "*"
+requests = "*"
+altair = "<5"
+pinecone = "*"
+openai = "*"
+pypdf = "*"
+black = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
