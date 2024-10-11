@@ -1,0 +1,10 @@
+__pycache__/consts.cpython-311.pyc
+.idea/IAProject.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/core.cpython-311.pyc
+__pycache__/ingestion.cpython-311.pyc
+.env
+.idea/.gitignore
